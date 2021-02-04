@@ -1,6 +1,6 @@
 # Email access cli V1.0
 
-Tool Moonton checker dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun login target dengan email:passwordnya.
+Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,tool yang di gunakan untuk auto cek akun login target dengan email:passwordnya.
 
 
 ## Installation on termux
