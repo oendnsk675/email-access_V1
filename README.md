@@ -31,7 +31,7 @@ Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,too
 ```
 5. clone tool di github.
 ```bash
-git clone https://github.com/oendnsk675/email_access-V.1/tree/main
+git clone https://github.com/oendnsk675/email-access_V1
 ```
 3. done.... tinggal di buka toolnya.
 
@@ -51,7 +51,7 @@ kalau kurang jelas bisa cek di channel youtube eastlombok team :
 2. download(official) dan install git bash.
 3. clone tool di github di dalam folder github.
 ```bash
-git clone https://github.com/oendnsk675/email_access-V.1/tree/main
+git clone https://github.com/oendnsk675/email-access_V1
 ```
 4. atau juga bisa download zipnya.
 5. install paket pendukung( buka terminal kalian,cmd/dll ).
