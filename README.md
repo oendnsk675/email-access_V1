@@ -9,13 +9,13 @@ Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,too
 ```bash
 1. termux/ terminal linux/ nethunter
 1. python3
-2. request
+2. requests
 ```
 
 ## tutuorial install
 1. update and upgrade dulu.
 ```bash
- apt update && upgrade
+ apt update && apt upgrade
 ```
 2. install python dulu guys.
 ```bash
@@ -27,7 +27,7 @@ Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,too
 ```
 4. install paket pendukung.
 ```bash
- pip install request
+ pip install requests
 ```
 5. clone tool di github.
 ```bash
@@ -56,7 +56,7 @@ git clone https://github.com/oendnsk675/email-access_V1
 4. atau juga bisa download zipnya.
 5. install paket pendukung( buka terminal kalian,cmd/dll ).
 ```bash
- pip install request
+ pip install requests
 ```
 6. done.... tinggal di buka toolnya dengan terminal git bash.
 
