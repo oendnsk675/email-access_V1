@@ -10,6 +10,8 @@ Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,too
 1. termux/ terminal linux/ nethunter
 1. python3
 2. requests
+3. git
+4. futures
 ```
 
 ## tutuorial install
@@ -28,6 +30,7 @@ Tool email access dari eastlombok team,di buat oleh sayidina ahmadal qososyi,too
 4. install paket pendukung.
 ```bash
  pip install requests
+ pip install futures
 ```
 5. clone tool di github.
 ```bash
@@ -57,6 +60,7 @@ git clone https://github.com/oendnsk675/email-access_V1
 5. install paket pendukung( buka terminal kalian,cmd/dll ).
 ```bash
  pip install requests
+ pip install futures
 ```
 6. done.... tinggal di buka toolnya dengan terminal git bash.
 
